@@ -23,3 +23,5 @@ Our product provides you with the most loved content curated by public opinion
 ## Architecture
 ![Architecture diagram]
 (https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/master/binge-arch.jpg)
+
+<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/master/binge-arch.jpg">
