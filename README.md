@@ -23,3 +23,19 @@ Our product provides you with the most loved content curated by public opinion
 ## Architecture
 
 <img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/master/binge-arch.jpg">
+
+
+
+Reviews:
+1. Score should be randomized Gauusian(- OSAMA)
+2. Filter to find out if talking about TV show or not (- fellow classmates)
+3. Is a tweet a troll (- fellow classmates)
+
+
+---------------
+General Suggestions
+
+1. filtering spam/troll
+2. UI
+3. Keywords from NLP
+4. Cleaning tweets up - removing links, photos
