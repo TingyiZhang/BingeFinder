@@ -1,16 +1,20 @@
+#exclude retweet, pictures and video
+#and it shows how many tweets in total
 from TwitterSearch import *
-import os
 import sys
 
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
+i=0
 doc=open('tweet.txt','w+')
 
 try:
     tso = TwitterSearchOrder() # create a TwitterSearchOrder object
-    tso.set_keywords(['keyword']) # let's define all words we would like to have a look for
+    tso.set_keywords(['#GOT']) # let's define all words we would like to have a look for
     tso.set_language('en')
-    tso.set_include_entities(False) # and don't give us all those entity information
+    tso.set_include_entities(True) 
 
-    # it's about time to create a TwitterSearch object with our secret tokens
     ts = TwitterSearch(
         consumer_key = '',
         consumer_secret = '',
@@ -18,14 +22,11 @@ try:
         access_token_secret = ''
      )
 
-     # this is where the fun actually starts :)
     for tweet in ts.search_tweets_iterable(tso):
-        print( '@%s tweeted: %s' % ( tweet['user']['screen_name'], tweet['text'] ) )
-
-
+        if (not tweet['retweeted']) and ('RT @' not in tweet['text']) and ('https://' not in tweet['text']):
+            doc.write(str(i))
+            doc.write('.%s\n\n' %(tweet['text']))
+            i+=1
+    print("there are %d tweets in total"%i)
 except TwitterSearchException as e: # take care of all those ugly errors if there are some
     print(e)
-    output=sys.stdout
-    sys.stdout=doc
-
-
