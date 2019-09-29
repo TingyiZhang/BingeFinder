@@ -80,8 +80,8 @@ if __name__ == '__main__':
         description=__doc__,
         formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument(
-        '--file_name')
+        '--tweet.txt')
     args = parser.parse_args()
 
-    analyze('file_name')
+    analyze('tweet.txt')
 # [END language_sentiment_tutorial]
