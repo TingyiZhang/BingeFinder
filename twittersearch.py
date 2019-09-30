@@ -40,13 +40,22 @@ def getTweetsForKeyword(searchKeyword):
     except TwitterSearchException as e: # take care of all those ugly errors if there are some
         print(e)
 
+def getTvShowTags():
+    with open('tvShowList.json', 'r') as show_file:
+        showTags = json.load(tweet_file)
+        return showTags
 
 
-keywords = ['#BigBangTheory', '#GameOfThrones', '#Castle', '#StrangerThings']
-showData = {};
-for showName in keywords:
-    tweets = getTweetsForKeyword(showName)
-    showData[showName] = tweets
-    
-with open('tweet.json', 'w') as outfile:
-    json.dump(showData, outfile)
+if __name__ == '__main__':
+    showTags = getTvShowTags()['data']
+    keywords = []
+    # showTags
+    for show in showTags:
+        keywords.append(show['tag'])
+    showData = {};
+    for showName in keywords:
+        tweets = getTweetsForKeyword(showName)
+        showData[showName] = tweets
+        
+    with open('tweet.json', 'w') as outfile:
+        json.dump(showData, outfile, indent=2, sort_keys=True)

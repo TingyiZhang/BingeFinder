@@ -1,87 +1,249 @@
 
                               
-<p><strong>Once Upon a Time</strong> #OnceUponATime / @OnceABC</p>
-<p><strong>Nashville</strong> #NashvilleABC / @Nashville_ABC</p>
-<p><strong>Last Resort</strong> #LastResort / @LastResort_ABC</p>
-<p><strong>Revenge</strong> #Revenge / @Revenge</p>
-<p><strong>666 Park Avenue</strong> #666ParkAve / @666ParkAve_ABC</p>
-<p><strong>Malibu County</strong> #MalibuCountry / @Malibu_Country<strong></strong></p>
-<p>Shark Tank #SharkTank / @ABCSharkTank</p>
-<p><strong>Dancing with the Stars</strong> #DWTS / @DancingABC</p>
-<p><strong>Happy Endings</strong> #HappyEndings / @HappyEndingsABC</p>
-<p><strong>Castle</strong> #Castle / @Castle_ABC</p>
-<p><strong>Don’t Trust the Bitch</strong> #Apt23 / @Apt23</p>
-<p><strong>Private Practice</strong> #PrivatePractice / @PrivatePractice</p>
-<p><strong>Grey’s Anatomy</strong> #GreysAnatomy / @ABCGreysAnatomy</p>
-<p><strong>Scandal</strong> #Scandal / @ScandalABC</p>
-<p><strong>The Middle</strong> #TheMiddle / @TheMiddle_ABC</p>
-<p><strong>Suburgatory</strong> #Suburgatory / @SuburgatoryABC</p>
-<p><strong>Last Man Standing</strong> #LastManStanding / @LastManABC</p>
-<p><strong>Elementary</strong> #Elementary / @Elementary_CBS</p>
-<p><strong>Made In Jersey</strong> #MadeInJersey / @MadeInJerseyCBS</p>
-<p><strong>Partners</strong> #partners / @Partners_CBS</p>
-<p><strong>Vegas</strong> #Vegas / @Vegas_CBS</p>
-<p><strong>Blue Bloods</strong> #BlueBloods / @BlueBloods_CBS</p>
-<p><strong>CSI: NY</strong> #CSINY / @CSINY_CBS</p>
-<p><strong>Hawaii Five-0</strong> #H50 / @HawaiiFive0CBS</p>
-<p><strong>Mike &amp; Molly</strong> #MikeandMolly / @MikeMolly_CBS</p>
-<p><strong>2 Broke Girls</strong> #2BrokeGirls / @2BrokeGirls_CBS</p>
-<p><strong>Big Bang Theory</strong> #BigBangTheory / @BigBang_CBS</p>
-<p><strong>How I Met Your Mother</strong> #HIMYM / @HIMYM_CBS</p>
-<p><strong>Person of Interest</strong> #PersonOfInterest / @PersonInterest</p>
-<p><strong>NCIS</strong> #NCIS / @NCIS_CBS</p>
-<p><strong>NCIS: LA</strong> #NCISLA / @NCISLA_CBS</p>
-<p><strong>The Mentalist</strong> #TheMentalist / @Mentalist_CBS</p>
-<p><strong>Amazing Race</strong> #AmazingRace / @AmazingRace_CBS</p>
-<p><strong>Survivor</strong> #Survivor / @Survivor_Tweet</p>
-<p><strong>Criminal Minds</strong> #CriminalMinds / @CrimMinds_CBS</p>
-<p><strong>CSI</strong> #CSI / @CSI_CBS</p>
-<p><strong>Two and a Half Men</strong> #TwoAndAHalfMen / @TwoHalfMen_CBS</p>
-<p><strong>The Good Wife</strong> #TheGoodWife / @TheGoodWife_CBS</p>
-<p><strong>Arrow</strong> #Arrow / @CW_network</p>
-<p><strong>90210</strong> #90210 / @CW_network</p>
-<p><strong>Emily Owens M.D</strong>. #emilyowensmd / @CW_network</p>
-<p><strong>Gossip Girl</strong> #gossipgirl / @CW_network</p>
-<p><strong>Beauty &amp; The Beast</strong> #batb / @CW_network</p>
-<p><strong>The Vampire Diaries</strong> #tvd / @CW_network</p>
-<p><strong>Hart of Dixie</strong> #hartofdixie / @CW_network</p>
-<p><strong>Supernatural</strong> #Supernatural / @CW_network</p>
-<p><strong>America’s Next Top Model</strong> #ANTM / @CW_ANTM</p>
-<p><strong>Nikita</strong> #Nikita / @CW_network</p>
-<p><strong>Fringe</strong> #fringe / @FRINGEonFOX</p>
-<p><strong>The</strong> <strong>X Factor</strong> #xfactor / @TheXFactorUSA</p>
-<p><strong>Ben &amp; Kate</strong> #benandkate / @BenandKateFOX</p>
-<p><strong>The Mindy Project</strong> #themindyproject / @MindyProjectFOX</p>
-<p><strong>The Mob Doctor</strong> #themobdoctor / @TheMobDoctorFOX</p>
-<p><strong>Family Guy</strong> #FamilyGuy / @FamilyGuyonFOX</p>
-<p><strong>American Dad</strong> #americandad / @AmericanDadFOX</p>
-<p><strong>Bob’s Burgers</strong> #bobsburgers / @BobsBurgersFOX</p>
-<p><strong>The Simpsons</strong> #thesimpsons / @HomerJSimpson</p>
-<p><strong>Touch</strong> #touch / @TouchOnTv</p>
-<p><strong>Bones</strong> #bones / @BONESonFOX</p>
-<p><strong>Glee</strong> #Glee / @GLEEonFOX</p>
-<p><strong><strong>New Girl</strong> </strong>#NewGirl / @NewGirlonFOX</p>
-<p><strong>Parenthood</strong> #Parenthood / @nbcparenthood</p>
-<p><strong>Animal Practice</strong> #AnimalPractice / @AnimalPractice</p>
-<p><strong>Chicago Fire</strong> #ChicagoFire / @NBCChicagoFire</p>
-<p><strong>Go On</strong> #GoOn / @NBCGo_On</p>
-<p><strong>Guys With Kids</strong> #GuyswithKids / @NBCGuyswithKids</p>
-<p><strong>New Normal</strong> #NewNormal / @NBCTheNewNormal</p>
-<p><strong>Revolution</strong> #Revolution / @NBCRevolution</p>
-<p><strong>Parks and Recreation</strong> #ParksandRec / @parksandrecnbc</p>
-<p><strong>The Office</strong> #TheOffice / @theofficenbc</p>
-<p><strong>30 Rock</strong> #30Rock / @nbc30roc</p>
-<p><strong>Up All Night</strong> #UpAllNight / @NBCUpAllNight</p>
-<p><strong>The Voice</strong> #TheVoice / @NBCTheVoice</p>
-<p><strong>Grimm</strong> #Grimm / @NBCGrimm</p>
-<p><strong>Law &amp; Order</strong>: SVU #SVU / @nbcsvu</p>
-<p><strong>Whitney</strong> #Whitney / @NBCWhitney</p>
-<p><strong>Community</strong> #Community / @nbccommunity</p>
-<p><strong>Dexter</strong> #Dexter / @SHO_Dexter</p>
-<p><strong>Homeland</strong> #Homeland / @SHO_Homeland</p>
-<p><strong>The Walking Dead</strong> #TheWalkingDead / @WalkingDead_AMC</p>
-<p><strong>Boardwalk Empire</strong> #BoardwalkEmpire / @HBO</p>
-<p><strong>Sons of Anarchy</strong> #SOAFX / @SonsOfAnarchy</p>
+{"name": "Once Upon a Time",
+"key": "#OnceUponATime"},
+
+{"name": "Nashville",
+"key": "#NashvilleABC"},
+
+{"name": "Last Resort",
+"key": "#LastResort"},
+
+{"name": "Revenge",
+"key": "#Revenge"},
+
+{"name": "666 Park Avenue",
+"key": "#666ParkAve"},
+
+{"name": "Malibu County",
+"key": "#MalibuCountry"},
+@Malibu_Country<strong></strong></p>
+<p>Shark Tank #SharkTank"},
+
+{"name": "Dancing with the Stars",
+"key": "#DWTS"},
+
+{"name": "Happy Endings",
+"key": "#HappyEndings"},
+
+{"name": "Castle",
+"key": "#Castle"},
+
+{"name": "Don’t Trust the Bitch",
+"key": "#Apt23"},
+
+{"name": "Private Practice",
+"key": "#PrivatePractice"},
+
+{"name": "Grey’s Anatomy",
+"key": "#GreysAnatomy"},
+
+{"name": "Scandal",
+"key": "#Scandal"},
+
+{"name": "The Middle",
+"key": "#TheMiddle"},
+
+{"name": "Suburgatory",
+"key": "#Suburgatory"},
+
+{"name": "Last Man Standing",
+"key": "#LastManStanding"},
+
+{"name": "Elementary",
+"key": "#Elementary"},
+
+{"name": "Made In Jersey",
+"key": "#MadeInJersey"},
+
+{"name": "Partners",
+"key": "#partners"},
+
+{"name": "Vegas",
+"key": "#Vegas"},
+
+{"name": "Blue Bloods",
+"key": "#BlueBloods"},
+
+{"name": "CSI: NY",
+"key": "#CSINY"},
+
+{"name": "Hawaii Five-0",
+"key": "#H50"},
+
+{"name": "Mike &amp; Molly",
+"key": "#MikeandMolly"},
+
+{"name": "2 Broke Girls",
+"key": "#2BrokeGirls"},
+
+{"name": "Big Bang Theory",
+"key": "#BigBangTheory"},
+
+{"name": "How I Met Your Mother",
+"key": "#HIMYM"},
+
+{"name": "Person of Interest",
+"key": "#PersonOfInterest"},
+
+{"name": "NCIS",
+"key": "#NCIS"},
+
+{"name": "NCIS: LA",
+"key": "#NCISLA"},
+
+{"name": "The Mentalist",
+"key": "#TheMentalist"},
+
+{"name": "Amazing Race",
+"key": "#AmazingRace"},
+
+{"name": "Survivor",
+"key": "#Survivor"},
+
+{"name": "Criminal Minds",
+"key": "#CriminalMinds"},
+
+{"name": "CSI",
+"key": "#CSI"},
+
+{"name": "Two and a Half Men",
+"key": "#TwoAndAHalfMen"},
+
+{"name": "The Good Wife",
+"key": "#TheGoodWife"},
+
+{"name": "Arrow",
+"key": "#Arrow"},
+
+{"name": "90210",
+"key": "#90210"},
+
+{"name": "Emily Owens M.D</strong>. #emilyowensmd"},
+
+{"name": "Gossip Girl",
+"key": "#gossipgirl"},
+
+{"name": "Beauty &amp; The Beast",
+"key": "#batb"},
+
+{"name": "The Vampire Diaries",
+"key": "#tvd"},
+
+{"name": "Hart of Dixie",
+"key": "#hartofdixie"},
+
+{"name": "Supernatural",
+"key": "#Supernatural"},
+
+{"name": "America’s Next Top Model",
+"key": "#ANTM"},
+
+{"name": "Nikita",
+"key": "#Nikita"},
+
+{"name": "Fringe",
+"key": "#fringe"},
+
+{"name": "The",
+"key": "<strong>X Factor",
+"key": "#xfactor"},
+
+{"name": "Ben &amp; Kate",
+"key": "#benandkate"},
+
+{"name": "The Mindy Project",
+"key": "#themindyproject"},
+
+{"name": "The Mob Doctor",
+"key": "#themobdoctor"},
+
+{"name": "Family Guy",
+"key": "#FamilyGuy"},
+
+{"name": "American Dad",
+"key": "#americandad"},
+
+{"name": "Bob’s Burgers",
+"key": "#bobsburgers"},
+
+{"name": "The Simpsons",
+"key": "#thesimpsons"},
+
+{"name": "Touch",
+"key": "#touch"},
+
+{"name": "Bones",
+"key": "#bones"},
+
+{"name": "Glee",
+"key": "#Glee"},
+
+{"name": "<strong>New Girl",
+"key": "</strong>#NewGirl"},
+
+{"name": "Parenthood",
+"key": "#Parenthood"},
+
+{"name": "Animal Practice",
+"key": "#AnimalPractice"},
+
+{"name": "Chicago Fire",
+"key": "#ChicagoFire"},
+
+{"name": "Go On",
+"key": "#GoOn"},
+
+{"name": "Guys With Kids",
+"key": "#GuyswithKids"},
+
+{"name": "New Normal",
+"key": "#NewNormal"},
+
+{"name": "Revolution",
+"key": "#Revolution"},
+
+{"name": "Parks and Recreation",
+"key": "#ParksandRec"},
+
+{"name": "The Office",
+"key": "#TheOffice"},
+
+{"name": "30 Rock",
+"key": "#30Rock"},
+
+{"name": "Up All Night",
+"key": "#UpAllNight"},
+
+{"name": "The Voice",
+"key": "#TheVoice"},
+
+{"name": "Grimm",
+"key": "#Grimm"},
+
+{"name": "Law &amp; Order</strong>: SVU #SVU"},
+
+{"name": "Whitney",
+"key": "#Whitney"},
+
+{"name": "Community",
+"key": "#Community"},
+
+{"name": "Dexter",
+"key": "#Dexter"},
+
+{"name": "Homeland",
+"key": "#Homeland"},
+
+{"name": "The Walking Dead",
+"key": "#TheWalkingDead"},
+
+{"name": "Boardwalk Empire",
+"key": "#BoardwalkEmpire"},
+
+{"name": "Sons of Anarchy",
+"key": "#SOAFX"},
+
 
 
 References:
