@@ -4,12 +4,12 @@ Recommend TV Shows and Movies based on sentiment analyze results of tweets.
 
 ## Product Mission
 The Binge Finder is an easy to use recommender.
-
-Unlike endless and sometimes unobjective recommendations on Netflix，Binge Finder recommends you Top 5 loved and Top 5 controversial TV shows based on Twitter comments analyze.
+- For TV shows Lovers who want recommendation based on popularity and real public reviews on Twitter.
+- Unlike endless and sometimes unobjective recommendations on Netflix，Binge Finder recommends you Top 5 loved and Top 5 controversial TV shows based on Twitter comments analyze.
 
 ### Target Users
 
-For TV shows Lovers who want recommendation based on popularity and real public reviews on Twitter.
+Everyone who wants to watch TV shows.
 
 ## User Stories
 
