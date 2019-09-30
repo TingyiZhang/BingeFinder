@@ -25,15 +25,15 @@ For TV shows Lovers who want recommendation based on popularity and real public 
 
 1. Install Python 3.6+, corresponding pip(usually included)
 2. clone this repository using:
-> git clone https://github.com/TingyiZhang/mini-project1-twitter-feeds-library.git
+>`git clone https://github.com/TingyiZhang/mini-project1-twitter-feeds-library.git`
 3. Create a virtual environment using venv(usually included with Python) as:
->python3 -m venv env
+>`python3 -m venv env`
 4. Activate your virtual environment
- >source env/bin/activate
+>`source env/bin/activate`
 5. Install required packages with command:
->pip install -r requirements.txt
+>`pip install -r requirements.txt`
 6. Run:
->python getRecommendation.py
+>`python getRecommendation.py`
 
 
 ## Advanced Users
@@ -43,20 +43,22 @@ To use the Twitter and Google API's, please follow the following instructions
 ### To Pull tweets from Twitter
 
 1. Create a file "twittersearchKey.py"
-
 2. Add the following contents:
-
+```
     keys = {
     'consumer_key' : '',
     'consumer_secret' : '',
     'access_token' : '',
     'access_token_secret' : ''
     }
+```
 
 
 ### To Do Sentiment Analysis
 
 1. Analyses tweets from the file - tweet.json
 2. Export your google Natural Language Developer key by running in terminal:
->export GOOGLE_APPLICATION_CREDENTIALS="path to your_key.json"
+>`export GOOGLE_APPLICATION_CREDENTIALS="path to your_key.json"`
 2. Outputs sentiment analyzer score to - sentiment.json
+
+
