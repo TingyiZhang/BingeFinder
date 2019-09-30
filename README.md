@@ -60,3 +60,14 @@ To use the Twitter and Google API's, please follow the following instructions
 2. Export your google Natural Language Developer key by running in terminal:
 >export GOOGLE_APPLICATION_CREDENTIALS="path to your_key.json"
 2. Outputs sentiment analyzer score to - sentiment.json
+
+## Some thoughs
+### What we found interesting?
+It's amazing that we can get all those data through Twitter API and analyze it through Google. These two APIs are very easy to use and very easy to customized.
+
+### Things we can improve
+We tryed to get TV shows list through iMDb API at first, but the iMDb API only support moives searching. In the future we can try to rank the movie too and rank them for each genre.
+
+### Things we will avoid
+Clarify our needs befor getting started
+
