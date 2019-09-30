@@ -24,10 +24,10 @@ For TV shows Lovers who want recommendation based on popularity and real public 
 ## Results
 
 Output for Recommendations: 
-<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/feature/sentiment_analyser/command-line-output.JPG">
+<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/master/command-line-output.JPG">
 
 Output for Sentiment Analyze:
-<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/feature/sentiment_analyser/command-line-output.JPG">
+<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/feature/sentiment_analyser/senntiment-screen.JPG">
 
 
 This is saved in the `sentiment.json` file
@@ -89,16 +89,16 @@ MIT
 ### What we found interesting?
 - It's amazing that we can get all those data through Twitter API and analyze it through Google.
 - These two APIs are pretty easy to use and easy to customize.
-- *Twitter API does not play very nice* - Stringent API hit limit, Google API is relatively easy to use
+- **Twitter API does not play very nice** - Stringent API hit limit, Google API is relatively easy to use
 
 
 ### Things we can improve
-- *Improve the scoring mechanism* - Improve how we calculate our scores, currently very basic arithmetic.
-- *Filter tweets* - Improve the sentiment analysis by removing irrelevant tweets from our input to the sentiment analyzer.
-- *Extend it to movies* - In the future we can try to rank the movies too.
-- *Add Feature to search by genre* - Search top content by comedy, horror, thriller, etc. 
+- **Improve the scoring mechanism** - Improve how we calculate our scores, currently very basic arithmetic.
+- **Filter tweets** - Improve the sentiment analysis by removing irrelevant tweets from our input to the sentiment analyzer.
+- **Extend it to movies** - In the future we can try to rank the movies too.
+- **Add Feature to search by genre** - Search top content by comedy, horror, thriller, etc. 
 
 ### Things we will avoid
-- *Studying the API more carefully before getting started* - We ran into many API limits for Twitter
-- *IMDB API does not play nice* - We tried to get TV shows list through IMDb API at first, but the IMDb API does not support searching by popularity. 
+- **Studying the API more carefully before getting started** - We ran into many API limits for Twitter
+- **IMDB API does not play nice** - We tried to get TV shows list through IMDb API at first, but the IMDb API does not support searching by popularity. 
 
