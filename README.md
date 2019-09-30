@@ -14,7 +14,7 @@ doc=open('tweet.txt','w+')
 '''
 
 ## Testing
-The tweets we crawl for Modern Family are in **tweet_for_modernfamily.txt*
+The tweets we crawl for Modern Family are in **tweet_for_modernfamily.txt**
 
 And feed them to the Google Natural Language API:
 <img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/feature/sentiment_analyser/sentimen_result_for_modernfamily.png">
