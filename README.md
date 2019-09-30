@@ -62,3 +62,12 @@ To use the Twitter and Google API's, please follow the following instructions
 2. Outputs sentiment analyzer score to - sentiment.json
 
 
+## LICENSE
+MIT
+
+## References
+1. Twitter Search Library:  `https://github.com/ckoepp/TwitterSearch`
+2. Google Search Library: `https://cloud.google.com/natural-language/`
+3. TV Show Database: `IMDB`
+4. TV Shows Twitter Tags: `https://ew.com/article/2012/10/01/twitter-hashtag-handle-tv-shows/`
+
