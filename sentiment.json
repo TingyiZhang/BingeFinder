@@ -1,0 +1,47 @@
+{
+  "#2BrokeGirls": {
+    "magnitude": 2.0,
+    "other": "magnitude: 2.0\nscore: 0.20000000298023224\n",
+    "score": 0.20000000298023224
+  },
+  "#Arrow": {
+    "magnitude": 1.7000000476837158,
+    "other": "magnitude: 1.7000000476837158\nscore: 0.5\n",
+    "score": 0.5
+  },
+  "#BigBangTheory": {
+    "magnitude": 9.600000381469727,
+    "other": "magnitude: 9.600000381469727\nscore: 0.20000000298023224\n",
+    "score": 0.20000000298023224
+  },
+  "#BlueBloods": {
+    "magnitude": 8.600000381469727,
+    "other": "magnitude: 8.600000381469727\nscore: 0.4000000059604645\n",
+    "score": 0.4000000059604645
+  },
+  "#HIMYM": {
+    "magnitude": 78.30000305175781,
+    "other": "magnitude: 78.30000305175781\n",
+    "score": 0.0
+  },
+  "#MikeandMolly": {
+    "magnitude": 1.5,
+    "other": "magnitude: 1.5\n",
+    "score": 0.0
+  },
+  "#PersonOfInterest": {
+    "magnitude": 3.200000047683716,
+    "other": "magnitude: 3.200000047683716\nscore: 0.6000000238418579\n",
+    "score": 0.6000000238418579
+  },
+  "#TheGoodWife": {
+    "magnitude": 3.200000047683716,
+    "other": "magnitude: 3.200000047683716\nscore: -0.30000001192092896\n",
+    "score": -0.30000001192092896
+  },
+  "#TwoAndAHalfMen": {
+    "magnitude": 2.200000047683716,
+    "other": "magnitude: 2.200000047683716\nscore: 0.20000000298023224\n",
+    "score": 0.20000000298023224
+  }
+}

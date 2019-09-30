@@ -1,0 +1,9 @@
+create venv
+activate
+print requirements
+install requirements
+install jupyter
+add env to jupyter kernel
+ipython kernel install --user --name=env
+
+start jupyter

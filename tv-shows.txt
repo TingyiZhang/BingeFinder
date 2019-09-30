@@ -1,0 +1,251 @@
+
+                              
+{"name": "Once Upon a Time",
+"key": "#OnceUponATime"},
+
+{"name": "Nashville",
+"key": "#NashvilleABC"},
+
+{"name": "Last Resort",
+"key": "#LastResort"},
+
+{"name": "Revenge",
+"key": "#Revenge"},
+
+{"name": "666 Park Avenue",
+"key": "#666ParkAve"},
+
+{"name": "Malibu County",
+"key": "#MalibuCountry"},
+@Malibu_Country<strong></strong></p>
+<p>Shark Tank #SharkTank"},
+
+{"name": "Dancing with the Stars",
+"key": "#DWTS"},
+
+{"name": "Happy Endings",
+"key": "#HappyEndings"},
+
+{"name": "Castle",
+"key": "#Castle"},
+
+{"name": "Don’t Trust the Bitch",
+"key": "#Apt23"},
+
+{"name": "Private Practice",
+"key": "#PrivatePractice"},
+
+{"name": "Grey’s Anatomy",
+"key": "#GreysAnatomy"},
+
+{"name": "Scandal",
+"key": "#Scandal"},
+
+{"name": "The Middle",
+"key": "#TheMiddle"},
+
+{"name": "Suburgatory",
+"key": "#Suburgatory"},
+
+{"name": "Last Man Standing",
+"key": "#LastManStanding"},
+
+{"name": "Elementary",
+"key": "#Elementary"},
+
+{"name": "Made In Jersey",
+"key": "#MadeInJersey"},
+
+{"name": "Partners",
+"key": "#partners"},
+
+{"name": "Vegas",
+"key": "#Vegas"},
+
+{"name": "Blue Bloods",
+"key": "#BlueBloods"},
+
+{"name": "CSI: NY",
+"key": "#CSINY"},
+
+{"name": "Hawaii Five-0",
+"key": "#H50"},
+
+{"name": "Mike &amp; Molly",
+"key": "#MikeandMolly"},
+
+{"name": "2 Broke Girls",
+"key": "#2BrokeGirls"},
+
+{"name": "Big Bang Theory",
+"key": "#BigBangTheory"},
+
+{"name": "How I Met Your Mother",
+"key": "#HIMYM"},
+
+{"name": "Person of Interest",
+"key": "#PersonOfInterest"},
+
+{"name": "NCIS",
+"key": "#NCIS"},
+
+{"name": "NCIS: LA",
+"key": "#NCISLA"},
+
+{"name": "The Mentalist",
+"key": "#TheMentalist"},
+
+{"name": "Amazing Race",
+"key": "#AmazingRace"},
+
+{"name": "Survivor",
+"key": "#Survivor"},
+
+{"name": "Criminal Minds",
+"key": "#CriminalMinds"},
+
+{"name": "CSI",
+"key": "#CSI"},
+
+{"name": "Two and a Half Men",
+"key": "#TwoAndAHalfMen"},
+
+{"name": "The Good Wife",
+"key": "#TheGoodWife"},
+
+{"name": "Arrow",
+"key": "#Arrow"},
+
+{"name": "90210",
+"key": "#90210"},
+
+{"name": "Emily Owens M.D</strong>. #emilyowensmd"},
+
+{"name": "Gossip Girl",
+"key": "#gossipgirl"},
+
+{"name": "Beauty &amp; The Beast",
+"key": "#batb"},
+
+{"name": "The Vampire Diaries",
+"key": "#tvd"},
+
+{"name": "Hart of Dixie",
+"key": "#hartofdixie"},
+
+{"name": "Supernatural",
+"key": "#Supernatural"},
+
+{"name": "America’s Next Top Model",
+"key": "#ANTM"},
+
+{"name": "Nikita",
+"key": "#Nikita"},
+
+{"name": "Fringe",
+"key": "#fringe"},
+
+{"name": "The",
+"key": "<strong>X Factor",
+"key": "#xfactor"},
+
+{"name": "Ben &amp; Kate",
+"key": "#benandkate"},
+
+{"name": "The Mindy Project",
+"key": "#themindyproject"},
+
+{"name": "The Mob Doctor",
+"key": "#themobdoctor"},
+
+{"name": "Family Guy",
+"key": "#FamilyGuy"},
+
+{"name": "American Dad",
+"key": "#americandad"},
+
+{"name": "Bob’s Burgers",
+"key": "#bobsburgers"},
+
+{"name": "The Simpsons",
+"key": "#thesimpsons"},
+
+{"name": "Touch",
+"key": "#touch"},
+
+{"name": "Bones",
+"key": "#bones"},
+
+{"name": "Glee",
+"key": "#Glee"},
+
+{"name": "<strong>New Girl",
+"key": "</strong>#NewGirl"},
+
+{"name": "Parenthood",
+"key": "#Parenthood"},
+
+{"name": "Animal Practice",
+"key": "#AnimalPractice"},
+
+{"name": "Chicago Fire",
+"key": "#ChicagoFire"},
+
+{"name": "Go On",
+"key": "#GoOn"},
+
+{"name": "Guys With Kids",
+"key": "#GuyswithKids"},
+
+{"name": "New Normal",
+"key": "#NewNormal"},
+
+{"name": "Revolution",
+"key": "#Revolution"},
+
+{"name": "Parks and Recreation",
+"key": "#ParksandRec"},
+
+{"name": "The Office",
+"key": "#TheOffice"},
+
+{"name": "30 Rock",
+"key": "#30Rock"},
+
+{"name": "Up All Night",
+"key": "#UpAllNight"},
+
+{"name": "The Voice",
+"key": "#TheVoice"},
+
+{"name": "Grimm",
+"key": "#Grimm"},
+
+{"name": "Law &amp; Order</strong>: SVU #SVU"},
+
+{"name": "Whitney",
+"key": "#Whitney"},
+
+{"name": "Community",
+"key": "#Community"},
+
+{"name": "Dexter",
+"key": "#Dexter"},
+
+{"name": "Homeland",
+"key": "#Homeland"},
+
+{"name": "The Walking Dead",
+"key": "#TheWalkingDead"},
+
+{"name": "Boardwalk Empire",
+"key": "#BoardwalkEmpire"},
+
+{"name": "Sons of Anarchy",
+"key": "#SOAFX"},
+
+
+
+References:
+<p>— <em>Reporting by Nika Vagner</em></p>
+https://ew.com/article/2012/10/01/twitter-hashtag-handle-tv-shows/
