@@ -15,4 +15,4 @@ For TV shows Lovers who want recommendation based on popularity and real public 
 2. As an audience, I want recommendation of top 5 TV shows that are the most controversial.
 
 ## Architecture
-<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/master/binge-arch.jpg">
+<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/master/Binge_FInder.jpg">
