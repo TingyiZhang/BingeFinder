@@ -21,6 +21,18 @@ For TV shows Lovers who want recommendation based on popularity and real public 
 
 <img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/master/Binge_FInder.jpg">
 
+## Results
+
+Output for Recommendations: 
+<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/feature/sentiment_analyser/command-line-output.JPG">
+
+Output for Sentiment Analyze:
+<img src="https://github.com/TingyiZhang/mini-project1-twitter-feeds-library/blob/feature/sentiment_analyser/command-line-output.JPG">
+
+
+This is saved in the `sentiment.json` file
+
+
 ## Installation Instructions
 
 1. Install Python 3.6+, corresponding pip(usually included)
@@ -70,4 +82,23 @@ MIT
 2. Google Search Library: `https://cloud.google.com/natural-language/`
 3. TV Show Database: `IMDB`
 4. TV Shows Twitter Tags: `https://ew.com/article/2012/10/01/twitter-hashtag-handle-tv-shows/`
+>export GOOGLE_APPLICATION_CREDENTIALS="path to your_key.json"
+2. Outputs sentiment analyzer score to - sentiment.json
+
+## Some thoughs
+### What we found interesting?
+- It's amazing that we can get all those data through Twitter API and analyze it through Google.
+- These two APIs are pretty easy to use and easy to customize.
+- *Twitter API does not play very nice* - Stringent API hit limit, Google API is relatively easy to use
+
+
+### Things we can improve
+- *Improve the scoring mechanism* - Improve how we calculate our scores, currently very basic arithmetic.
+- *Filter tweets* - Improve the sentiment analysis by removing irrelevant tweets from our input to the sentiment analyzer.
+- *Extend it to movies* - In the future we can try to rank the movies too.
+- *Add Feature to search by genre* - Search top content by comedy, horror, thriller, etc. 
+
+### Things we will avoid
+- *Studying the API more carefully before getting started* - We ran into many API limits for Twitter
+- *IMDB API does not play nice* - We tried to get TV shows list through IMDb API at first, but the IMDb API does not support searching by popularity. 
 
