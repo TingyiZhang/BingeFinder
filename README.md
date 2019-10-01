@@ -85,7 +85,7 @@ MIT
 >export GOOGLE_APPLICATION_CREDENTIALS="path to your_key.json"
 2. Outputs sentiment analyzer score to - sentiment.json
 
-## Some thoughs
+## Some thoughts
 ### What we found interesting?
 - It's amazing that we can get all those data through Twitter API and analyze it through Google.
 - These two APIs are pretty easy to use and easy to customize.
